@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Futurefunders]]></title>
-        <description><![CDATA[Futurefunders]]></description>
-        <link>https://thegrid.ai/futurefunders/</link>
+        <title><![CDATA[My perspective and opinion sharing with the wider masses]]></title>
+        <description><![CDATA[My perspective and opinion sharing with the wider masses]]></description>
+        <link>http://www.franklinmora.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 16:44:10 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/futurefunders/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 16:46:51 GMT</lastBuildDate>
+        <atom:link href="http://www.franklinmora.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi there!</p>]]></description>
-            <link>https://thegrid.ai/futurefunders/my-first-post-it-wont-be-a-hoax-instead-itll-be-somethin/index.html</link>
+            <link>http://www.franklinmora.com/my-first-post-it-wont-be-a-hoax-instead-itll-be-somethin/index.html</link>
             <guid isPermaLink="false">8778ba72-8639-46d4-8f85-cdb3d811d703</guid>
-            <pubDate>Sat, 19 Mar 2016 16:44:01 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 16:46:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
