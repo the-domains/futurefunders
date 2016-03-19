@@ -1,0 +1,28 @@
+name: Futurefunders
+favicon: null
+layout_spectrum: 0.892158861272037
+typography_spectrum: 0.631990616209805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9985646456480026
+  lightness: 0.03784182877279818
+  saturation: 0.5623292250093073
+  rhythmicContrast: 0.5840192893519998
+purpose: []
